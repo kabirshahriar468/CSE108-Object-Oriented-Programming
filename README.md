@@ -57,7 +57,7 @@ BookShop system development:
 Vector mathematics implementation:
 - `2005114.cpp` - Student submission (Vector class)
 - `spec.cpp` - Specification and test cases
-- `2005107.cpp` - **Enhanced Vector class with operator overloading**
+- `2005114.cpp` - **Enhanced Vector class with operator overloading**
 
 #### 🎯 Offline Assignment 4
 Java-based banking system:
@@ -94,7 +94,7 @@ Java programming practice exercises and projects.
 ## 🚀 Key Projects
 
 ### Vector Mathematics System (Offline 3)
-**File**: `02_Offline_Assignments/Offline_3/2005107.cpp`
+**File**: `02_Offline_Assignments/Offline_3/2005114.cpp`
 
 A comprehensive C++ implementation of 3D vector mathematics featuring:
 
